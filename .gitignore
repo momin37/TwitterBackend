@@ -12,6 +12,7 @@ build/
 .env
 package-lock.json
 
+
 # Editor/IDE specific files
 .vscode/
 .idea/
