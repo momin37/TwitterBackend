@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+# Built output
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+package-lock.json
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
