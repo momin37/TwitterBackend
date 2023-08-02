@@ -20,3 +20,18 @@ package-lock.json
 # OS-specific files
 .DS_Store
 Thumbs.db
+
+# Prisma generated files
+prisma/.env
+prisma/migrations
+prisma/.prisma
+
+
+# Prisma Client output folder (change "generated-client" to the actual output folder name if different)
+generated-client/
+
+# Other Prisma generated files (change "generated" to the actual output folder name if different)
+generated/
+
+# If you are using Prisma 1, also ignore the "node_modules" folder inside "prisma"
+prisma/node_modules/
